@@ -1,10 +1,13 @@
 package com.app;
 
 public class Test {
+	public String getaData(int i) {
+		return null;//for stach
+		
+	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("Good Morning");
+		System.out.println("Good night");
 	}
 
 }
